@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "Null",
+    "interestingFact": "195 countries and somehow they still can't figure out world peace. Impressive."
+  },
+  {
+    "id": 2,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "interestingFact": "Has the tallest mountain in the world and still no one's heard of anything else you've done."
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "interestingFact": "Built the most iconic structures in human history 4000 years ago and has been living off that reputation ever since."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "A whole continent to themselves and they chose to put all the deadliest animals there. Truly unhinged."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Has the largest rainforest in the world and is doing everything possible to get rid of it."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "Built one giant iron tower and now acts like they invented civilization. Also somehow always on strike."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 144200000,
+    "interestingFact": "Largest country in the world by area and still somehow always in everyone else's business."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1412600000,
+    "interestingFact": "Built a wall thousands of miles long to keep people out and it didn't even work. 1 star, would not recommend."
+  },
+  {
+    "id": 9,
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "population": 331000000,
+    "interestingFact": "Puts their date as month/day/year, uses Fahrenheit, and refuses to go metric."
+  }
+]
