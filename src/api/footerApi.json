@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Casterly Rock, Westeros"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+1 (212) 555-0198"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "TywinLannister@CasterlyRock.com"
+  }
+]

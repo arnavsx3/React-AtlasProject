@@ -2,8 +2,8 @@ import React from "react";
 
 export const Contact = () => {
   const handleFormSubmit = (formData) => {
-    const data = formData.entries()
-    const formInputData = Object.fromEntries(data)
+    const data = formData.entries() //data becomes key value pairs [[1,"A"],[2,"B"]]
+    const formInputData = Object.fromEntries(data) //key value pairs become js object
     console.log(formInputData)
   };
   return (
@@ -15,7 +15,7 @@ export const Contact = () => {
             type="text"
             className="form-control"
             required
-            autoComplete="false"
+            autoComplete="off"
             placeholder="Enter your name"
             name="username"
           />
@@ -23,7 +23,7 @@ export const Contact = () => {
             type="email"
             className="form-control"
             required
-            autoComplete="false"
+            autoComplete="off"
             placeholder="Enter your email"
             name="email"
           />
@@ -33,7 +33,7 @@ export const Contact = () => {
             placeholder="Enter your message"
             rows="10"
             required
-            autoComplete="false"></textarea>
+            autoComplete="off"></textarea>
           <button type="submit">Send</button>
         </form>
       </div>
